@@ -1,0 +1,13 @@
+package com.example.mufgtest;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class MufgTestApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
